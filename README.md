@@ -1,7 +1,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ tpx ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
-<p><a href="http://dashboard.heroku.com/new?template=https://github.com/BtwUnnati/12"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="http://dashboard.heroku.com/new?template=https://github.com/BtwUnnati/New"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 <br>
 
 
@@ -120,6 +120,7 @@ sudo apt install tmux && tmux
 ```bash
 bash toxic 
 ```
+
 
 
 
