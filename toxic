@@ -1,1 +1,7 @@
-python3 -m Toxic
+python3 -m Toxic &
+
+python3 word.py &
+
+python3 rank.py &
+
+wait
