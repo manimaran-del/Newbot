@@ -25,7 +25,7 @@ youtube-search
 youtube-search-python
 pyrogram
 pyTelegramBotAPI==4.14.1
-requests==2.31.0
-python-telegram-bot==20.0
+requests
+python-telegram-bot
 matplotlib
 Pillow
