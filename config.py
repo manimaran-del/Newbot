@@ -93,18 +93,18 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://ar-hosting.pages.dev/1757157008580.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://ar-hosting.pages.dev/1757157048345.jpg"
+    "PING_IMG_URL", "https://ar-hosting.pages.dev/1757157024879.jpg"
 )
-PLAYLIST_IMG_URL = "https://ar-hosting.pages.dev/1756903107029.jpg"
-STATS_IMG_URL = "https://ar-hosting.pages.dev/1756903107029.jpg"
-TELEGRAM_AUDIO_URL = "https://ar-hosting.pages.dev/1756903107029.jpg"
-TELEGRAM_VIDEO_URL = "https://ar-hosting.pages.dev/1756903107029.jpg"
-STREAM_IMG_URL = "https://ar-hosting.pages.dev/1756903107029.jpg"
-SOUNCLOUD_IMG_URL = "https://ar-hosting.pages.dev/1756903107029.jpg"
-YOUTUBE_IMG_URL = "https://ar-hosting.pages.dev/1756903107029.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://ar-hosting.pages.dev/1756903107029.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://ar-hosting.pages.dev/1756903107029.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://ar-hosting.pages.dev/1756903107029.jpg"
+PLAYLIST_IMG_URL = "https://ar-hosting.pages.dev/1757157024879.jpg"
+STATS_IMG_URL = "https://ar-hosting.pages.dev/1757157334814.jpg"
+TELEGRAM_AUDIO_URL = "https://ar-hosting.pages.dev/1757157048345.jpg"
+TELEGRAM_VIDEO_URL = "https://ar-hosting.pages.dev/1757157048345.jpg"
+STREAM_IMG_URL = "https://ar-hosting.pages.dev/1757157024879.jpg"
+SOUNCLOUD_IMG_URL = "https://ar-hosting.pages.dev/1757157024879.jpg"
+YOUTUBE_IMG_URL = "https://ar-hosting.pages.dev/1757157024879.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://ar-hosting.pages.dev/1757157024879.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://ar-hosting.pages.dev/1757157024879.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://ar-hosting.pages.dev/1757157024879.jpg"
 
 
 def time_to_seconds(time):
