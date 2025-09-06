@@ -90,10 +90,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://ar-hosting.pages.dev/1756828720362.jpg"
+    "START_IMG_URL", "https://ar-hosting.pages.dev/1757157008580.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg"
+    "PING_IMG_URL", "https://ar-hosting.pages.dev/1757157048345.jpg"
 )
 PLAYLIST_IMG_URL = "https://ar-hosting.pages.dev/1756903107029.jpg"
 STATS_IMG_URL = "https://ar-hosting.pages.dev/1756903107029.jpg"
